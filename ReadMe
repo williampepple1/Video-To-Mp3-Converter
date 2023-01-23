@@ -1,0 +1,6 @@
+# Requirements
+
+There are various tools required for this to work properly in development installed:
+
+1. Docker
+2. Kubectl
